@@ -21,6 +21,5 @@ function copyDir() {
     console.log('Создана папка');
 
   });
-
 }
 copyDir();
